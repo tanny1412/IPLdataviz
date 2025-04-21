@@ -46,7 +46,7 @@ The underlying IPL dataset contains match results, team statistics, and points t
 - **Interactivity**: Hover tooltips, clickable legends, and dropdown selectors for seamless exploration.
 
 ## 👥 Author
-Created with ❤️ by [Tanish Kandivlikar] (@tanny1412).
+Created with ❤️ by Tanish Kandivlikar (@tanny1412).
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to:
